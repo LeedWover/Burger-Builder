@@ -1,0 +1,11 @@
+{
+  "files.useExperimentalFileWatcher": true,
+  "files.watcherExclude": {
+    "**/.git/objects/**": false,
+    "**/.git/objects/**:true": true,
+    "**/.git/subtree-cache/**": false,
+    "**/.git/subtree-cache/**:true": true,
+    "**/node_modules/**": false,
+    "**/node_modules/**:true": true
+  }
+}
