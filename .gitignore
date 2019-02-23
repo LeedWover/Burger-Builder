@@ -11,6 +11,9 @@
 # production
 /build
 
+# db key
+/src/axios-orders.js
+
 # misc
 .DS_Store
 .env.local
