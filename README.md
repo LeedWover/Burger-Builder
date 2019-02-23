@@ -1,4 +1,4 @@
-## This project is not mine, it is an udemy react course project.
+## This project is not mine. In origin it is an udemy react course project.
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
